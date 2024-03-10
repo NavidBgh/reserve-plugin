@@ -27,4 +27,3 @@ const openGanjeDelivery = (url, returnSelectedGanje) => {
   });
 };
 
-module.export = openGanjeDelivery;
